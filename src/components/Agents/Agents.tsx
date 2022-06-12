@@ -72,7 +72,7 @@ const Agents: FC = () => {
           ))
         ) : (
           <tr>
-            <td colSpan={5}>No Users</td>
+            <td colSpan={5}>No Agents</td>
           </tr>
         )}
         </tbody>

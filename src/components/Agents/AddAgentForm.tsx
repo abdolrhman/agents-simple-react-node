@@ -28,7 +28,7 @@ const AddAgentForm = (props: any) => {
         setAgent(initialFormState);
       }}
     >
-      <h2>Add User</h2>
+      <h2>Add Agent</h2>
       <div className="form-group">
         <label>First Name</label>
         <input
